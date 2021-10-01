@@ -1,7 +1,7 @@
 ### 👋 Hello!
 
 - 🔭 I’m currently working on my chess project! [CHESS](https://github.com/Kkomek21/Chess)
-- 🌱 I’m currently learning advanced bash
+- 🌱 I’m currently learning bash
 - 📫 How to reach me: (kkomek21@gmail.com)
 
 ### 🛠️ Technologies & Tools
