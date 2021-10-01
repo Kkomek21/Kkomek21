@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-2bbc8a)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=white&color=2bbc8a&labelColor=green)
 
 ### 📜 GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kkomek21&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
