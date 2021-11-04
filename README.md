@@ -6,7 +6,7 @@
 
 ### 🛠️ Technologies & Tools
 ![PyCharm](https://img.shields.io/badge/IDE-pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a&labelcolor=black)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/Code-KROMEK-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-2bbc8a)
