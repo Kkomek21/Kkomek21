@@ -1,6 +1,6 @@
 ### 👋 Hello!
 
-- 🔭 I’m currently working on my chess project! [CHESS](https://github.com/Kkomek21/Chess)
+- 🔭 I’m currently working on my chess project! [CHESS](https://github.com/krystianpietryka/Chess)
 - 🌱 I’m currently learning Django
 - 📫 How to reach me: (kkomek21@gmail.com)
 
