@@ -1,7 +1,7 @@
 ### 👋 Hello!
 
 - 🔭 I’m currently working on my chess project! [CHESS](https://github.com/krystianpietryka/Chess)
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Flask
 - 📫 How to reach me: (kkomek21@gmail.com)
 
 ### 🛠️ Technologies & Tools
