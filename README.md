@@ -1,6 +1,6 @@
 ### 👋 Hello!
 
-- 🔭 I’m currently working on my Wordle_Assistant project! [Wordle_Assistant](https://github.com/krystianpietryka/Wordle_Assistant)
+- 🔭 I’m currently working on my [Wordle_Assistant](https://github.com/krystianpietryka/Wordle_Assistant) project! 
 - 🌱 I’m currently learning Flask
 - 📫 How to reach me: (kkomek21@gmail.com)
 
