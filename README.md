@@ -7,7 +7,6 @@
 ### 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-TSQL-2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) 
-[![Atom](https://badgen.net/badge/icon/atom?icon=atom&label)](https://atom.io)
 ![VSCode](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual%20studio%20code&logoColor=ffffff&color=2bbc8a&labelcolor=black)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
