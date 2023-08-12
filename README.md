@@ -1,7 +1,7 @@
 ### 👋 Hello!
 
-- 🔭 I’m currently working on my [Wordle_Assistant](https://github.com/krystianpietryka/Wordle_Assistant) project! 
-- 🌱 I’m currently learning RPAs, specifically UIPath
+- 🔭 I’m currently working on my [Blockchain]([https://github.com/krystianpietryka/Wordle_Assistant](https://github.com/krystianpietryka/Blockchain)) project! 
+- 🌱 I’m currently learning MongoDB
 - 📫 How to reach me: (kkomek21@gmail.com)
 
 ### 🛠️ Technologies & Tools
